@@ -1,0 +1,21 @@
+body {
+  background-color: rgb(57, 121, 100);
+  
+}
+
+p,
+h1,
+h2,
+h3,
+h4,
+li {
+  color: rgb(255, 224, 186);
+}
+
+img{
+    border-radius: 20%;  
+}
+table{
+  border-style:solid;
+  color: rgb(245, 255, 199);
+}
