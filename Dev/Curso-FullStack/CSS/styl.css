@@ -1,0 +1,15 @@
+body {
+  background-color: rgb(57, 121, 100);
+  text-align: center;
+}
+
+p,
+h2,
+li {
+  color: bisque;
+}
+
+img {
+  border-radius: 20%;
+}
+
